@@ -1,2 +1,3 @@
-# coursera-test-repo
-the coursera do be testing tho
+# coursera-testing
+Coursera when the
+when the course
